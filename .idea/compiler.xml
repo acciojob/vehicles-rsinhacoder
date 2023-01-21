@@ -11,5 +11,6 @@
         <module name="vehicles-driver-code" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="19" />
   </component>
 </project>
